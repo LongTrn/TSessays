@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "Form1.Designer.cs",
+      "name": "Form1.Designer.cs"
+    }
+  ]
+}

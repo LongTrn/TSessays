@@ -1,0 +1,16 @@
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\bin\Release\Test2.exe.config
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\bin\Release\Test2.exe
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\bin\Release\Test2.pdb
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\bin\Release\dje-NE\Test2.resources.dll
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\bin\Release\es-PY\Test2.resources.dll
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\EssayTS.csprojAssemblyReference.cache
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\Test2.FrmTrangChu.resources
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\Test2.FrmDangNhap.resources
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\Test2.Properties.Resources.resources
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\Test2.FrmDangNhap.dje-NE.resources
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\Test2.FrmDangNhap.es-PY.resources
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\EssayTS.csproj.GenerateResource.cache
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\dje-NE\Test2.resources.dll
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\es-PY\Test2.resources.dll
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\Test2.exe
+D:\Docs\Learns\TS\Essay\Source\QuanLyBanHang\Test2\obj\Release\Test2.pdb
